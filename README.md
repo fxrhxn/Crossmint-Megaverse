@@ -16,4 +16,4 @@ createShape() - creates a shape of Polyanets 🪐
 
 ### challenge2.js
 
-/fill-metaverse - get request that fills up the metaverse with all planets 🌕
+/fill-metaverse - get request that fills up the metaverse with all planets using a for loop 🌕
